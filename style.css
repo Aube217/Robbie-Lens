@@ -1,6 +1,5 @@
-em{
-    font-style: normal;
-    color: #a5b4fc;
+body{
+    background-color: #1f2039;
 }
 
 h1{
@@ -12,4 +11,20 @@ h1{
 p{
     font-size: 1.1em;
     font-family: 'Manrope';
+}
+
+em{
+    font-style: normal;
+    color: #a5b4fc;
+}
+
+.entete, .pied_de_page{
+    background:white;
+    color: #242424;
+}
+
+.ecrivez-moi, .voir_portfolio{
+    background: linear-gradient(90deg, #8e86b5, #acaeed);
+    font-family: 'Montserrar';
+    color: white;
 }
